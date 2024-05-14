@@ -1,0 +1,5 @@
+[Detection]
+ear_threshold = 0.24
+mar_threshold = 0.5
+drowsiness_detected = True
+
