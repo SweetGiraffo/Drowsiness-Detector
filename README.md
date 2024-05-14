@@ -2,6 +2,21 @@
 
 This is a desktop application developed as part of a major project stage 2. The application is designed to detect drowsiness in users by analyzing facial landmarks captured through a webcam feed.
 
+## Project Details
+
+- **Project Name:** Drowsiness Detector
+- **Department:** Electronics and Communication Department
+- **Batch:** 2020-2024
+- **Major Project Stage:** 2
+- **Mentored By:** Dr. Ashwani Kumar Sir
+
+## Team Members
+
+- **Vaibhav Choudhary (20BEC064)**
+- **Vivek Chauhan (20BEC043)**
+- **Ojasvi Pundir (20BEC063)**
+- **Vjender (20BEC099)**
+
 ## Features
 
 - **Training Mode:** Allows users to collect samples of facial landmarks while behaving drowsy for training purposes.
